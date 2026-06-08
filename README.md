@@ -7,7 +7,7 @@ Business & Finance student building a portfolio of real analyst work — financi
 
 | Project | Tools | Status |
 |---|---|---|
-| [Walmart DCF Model](#) | Excel | ✅ Complete |
+| [Walmart DCF Model](Walmart_DCF_Model.xlsx) | Excel | ✅ Complete |
 | Budget vs. Actuals Variance Analysis | Excel | 🔄 In progress |
 | Comparable Company Analysis | Excel | 📋 Planned |
 | Healthcare Data Analysis | Python, SQL | 📋 Planned |
