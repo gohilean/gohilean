@@ -15,10 +15,11 @@ Key skills demonstrated:
 - WACC and terminal value analysis
 - Sensitivity analysis
 - Excel financial modeling
+  
 | Budget vs. Actuals Variance Analysis | Excel | 🔄 In progress |
 | Comparable Company Analysis | Excel | 📋 Planned |
 | Healthcare Data Analysis | Python, SQL | 📋 Planned |
-|---|---|---|
+
 ## Skills
 `Financial Modeling` `DCF Valuation` `FP&A` `Excel` `Data Analytics` `SQL` `Python`
 ## Connect
